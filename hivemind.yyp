@@ -1,9 +1,5 @@
 {
   "resources": [
-    {"id":{"name":"hellogamer","path":"objects/hellogamer/hellogamer.yy",},"order":2,},
-    {"id":{"name":"testsave2","path":"objects/testsave2/testsave2.yy",},"order":0,},
-    {"id":{"name":"anothertest","path":"objects/anothertest/anothertest.yy",},"order":3,},
-    {"id":{"name":"yo","path":"objects/yo/yo.yy",},"order":1,},
     {"id":{"name":"Room1","path":"rooms/Room1/Room1.yy",},"order":0,},
   ],
   "Options": [
