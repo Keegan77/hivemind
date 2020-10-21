@@ -1,5 +1,7 @@
 {
   "resources": [
+    {"id":{"name":"SCR_MainMenu","path":"scripts/SCR_MainMenu/SCR_MainMenu.yy",},"order":0,},
+    {"id":{"name":"OBJ_MainMenu","path":"objects/OBJ_MainMenu/OBJ_MainMenu.yy",},"order":0,},
     {"id":{"name":"Room1","path":"rooms/Room1/Room1.yy",},"order":0,},
   ],
   "Options": [
