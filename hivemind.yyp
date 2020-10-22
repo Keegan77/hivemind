@@ -9,6 +9,7 @@
     {"id":{"name":"S_ZombieType1","path":"sprites/S_ZombieType1/S_ZombieType1.yy",},"order":1,},
     {"id":{"name":"o_ZombieType1","path":"objects/o_ZombieType1/o_ZombieType1.yy",},"order":0,},
     {"id":{"name":"o_StopInTheNameOfLaw","path":"objects/o_StopInTheNameOfLaw/o_StopInTheNameOfLaw.yy",},"order":1,},
+    {"id":{"name":"Room1","path":"rooms/Room1/Room1.yy",},"order":0,},
   ],
   "Options": [
     {"name":"Linux","path":"options/linux/options_linux.yy",},
@@ -25,6 +26,7 @@
   },
   "RoomOrder": [
     {"name":"GameArea","path":"rooms/GameArea/GameArea.yy",},
+    {"name":"Room1","path":"rooms/Room1/Room1.yy",},
   ],
   "Folders": [
     {"folderPath":"folders/Sprites.yy","order":1,"resourceVersion":"1.0","name":"Sprites","tags":[],"resourceType":"GMFolder",},
